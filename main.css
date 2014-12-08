@@ -1,0 +1,28 @@
+#main{
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  background: url(le-philosophe-1024.jpg);
+  width: 1024px;
+  height: 684px;
+  color: #fff;
+}
+
+a:link {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #fff;
+}
